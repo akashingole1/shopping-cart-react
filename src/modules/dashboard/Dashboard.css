@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.content {
+  background: #efe9e2;
+  flex: 1;
+  /* overflow-y: auto; */
+}
+.fw-600 {
+  font-weight: 600;
+}
+.d-blue {
+  color: dodgerblue;
+}
+.black {
+  color: black;
+}
+.pointer {
+  cursor: pointer;
+}
