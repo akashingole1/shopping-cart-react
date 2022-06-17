@@ -1,0 +1,15 @@
+.footer {
+  min-height: 60px;
+  background: lightgrey;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 17px;
+}
+.about-us {
+  display: flex;
+  width: 500px;
+  justify-content: space-evenly;
+}
+.fw-600 {
+  font-weight: 600;
+}
